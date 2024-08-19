@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b898d642cabb2f4fa9772f50d5a95ba, type: 3}
+  m_Name: TucanoDialogue
+  m_EditorClassIdentifier: 
+  npcName: Toco Toucan
+  dialogue:
+  - Hey! You came to save me!? Phew, I was tired of this cage. I thought being trapped
+    in this cage for longer!
+  - I'm used to flying freely and the hunters made me think I could no longer fly
+    through the forest.
+  - "By the way, I am the Toco Toucan, also known as Tucanu\xE7u, the largest species
+    of toucan in Brazil. Cool, right?"
+  - I love fruits, insects and eggs! Speaking of which, it made me hungry! Being
+    trapped in this cage left me craving some berries.
+  - "In addition to the forest, I live in savannahs and cap\xF5es. My species nests
+    in holes, trees, ravines and termite mounds."
+  - Wow, all this talk has made me thirsty. Now I'm thirsty and hungry. The best
+    time for a meal hehehe.
+  - Thank you very much, human! I can fly free again! See you later and good luck!

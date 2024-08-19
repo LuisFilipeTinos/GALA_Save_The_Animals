@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b898d642cabb2f4fa9772f50d5a95ba, type: 3}
+  m_Name: AraraIntroDialogue
+  m_EditorClassIdentifier: 
+  npcName: Blue Macaw
+  dialogue:
+  - Hello! I'm the blue macaw and I need help to save my friends!
+  - What's happening is that three of my friends were trapped in cages by hunters
+    who invaded the forest and I need you to release them.
+  - But you don't need to worry, I'll be with you all the time.
+  - When you get close to the places where the hunters are with my friends, you will
+    see a tree that keeps appearing and disappearing.
+  - With it, you can call me to tell you how to get past these bad men and get to
+    the cages...
+  - And one more thing, the forest is big, so you should look for the place where
+    each of my friends are.
+  - Oh! Before I forget. To move around, you can press the "W" key or the up arrow
+    key to move forward.
+  - To move to the right, you can press the "D" key or the right arrow key.
+  - To move to the left, you can press the "A" key or the left arrow.
+  - To go backwards, you can press the "S" key or the down arrow key.
+  - You can also move the mouse around to look at things.
+  - And press "F" or "Right Ctrl" to release the animals, interact with them and
+    call me near the trees that appear and disappear.
+  - "But don't worry if you don't remember all the commands. You can press the \"ESC\"
+    key to pause the game and click the \u201CAbout\u201D button to remember what
+    each key does."
+  - After releasing all my friends, go to the biggest tree in the forest to finish
+    your mission.
+  - Don't forget to chat with my friends to learn about them!
+  - Now you are prepared to begin your adventure! Good luck, young adventurer!

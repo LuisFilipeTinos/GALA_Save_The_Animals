@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b898d642cabb2f4fa9772f50d5a95ba, type: 3}
+  m_Name: OncaDialogue
+  m_EditorClassIdentifier: 
+  npcName: Jaguar
+  dialogue:
+  - Oh! Finally someone came to release me. You took too long, young human.
+  - I am the jaguar and I am starving. I'm a carnivorous animal, so I have to hunt
+    other animals to feed myself, did you know?
+  - After all, I have to stay well fed to remain the biggest feline in the Americas.
+  - I'm also a mammal, that is, I fed on milk when I was a baby, just like you.
+  - Did you know that I am an incredible hunter and swimmer? I can hunt even in places
+    with a lot of water. Cool, right?
+  - It's a shame that humans don't care about me and because of that I'm almost threatened
+    with extinction. This means that one day there may be no jaguars.
+  - This is sad, but you seem smart, human! I'm counting on you to help save us from
+    extinction.
+  - Now go, you've been standing here too long. Good luck!

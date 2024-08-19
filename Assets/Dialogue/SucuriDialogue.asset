@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b898d642cabb2f4fa9772f50d5a95ba, type: 3}
+  m_Name: SucuriDialogue
+  m_EditorClassIdentifier: 
+  npcName: Green Anaconda
+  dialogue:
+  - Just look! A human saved me, how wonderful. Hahahaha...
+  - You are small!
+  - Compared to me, one of the biggest snakes in the world, who isn't?
+  - I am the green anaconda. I'm a carnivore, so I eat other animals.
+  - Did you know that I can live up to thirty years? I have plenty of time to visit
+    many places and animals.
+  - I'm a swimmer, so in addition to moving across land, I can move through rivers.
+    To help me move, find food and other snakes, I use my tongue.
+  - I'm amazing, right? But get going, human.
