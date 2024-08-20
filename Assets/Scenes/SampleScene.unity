@@ -1241,7 +1241,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -4493,7 +4493,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 4
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -6508,7 +6508,7 @@ MonoBehaviour:
   npcName: {fileID: 2047447389}
   dialogue: {fileID: 643306734}
   mugshot: {fileID: 683720773}
-  dialogSpeed: 0.005
+  dialogSpeed: 0.03
   dialogueBox: {fileID: 1714856346}
   dialogueImageBox: {fileID: 288040913}
   dialogueFade: {fileID: 445176724}

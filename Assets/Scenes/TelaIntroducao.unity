@@ -191,7 +191,7 @@ MonoBehaviour:
   npcName: {fileID: 14972435}
   dialogue: {fileID: 39271060}
   mugshot: {fileID: 789142055}
-  dialogSpeed: 0.005
+  dialogSpeed: 0.03
   dialogueBox: {fileID: 204997014}
   dialogueImageBox: {fileID: 893531534}
   dialogueFade: {fileID: 277815194}
