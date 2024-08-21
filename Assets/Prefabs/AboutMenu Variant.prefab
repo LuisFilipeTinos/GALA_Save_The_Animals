@@ -491,6 +491,21 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -84
       objectReference: {fileID: 0}
+    - target: {fileID: 6906078008625661926, guid: 5ea720536a0e4e145b576230bee124de,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 51.658
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906078008625661926, guid: 5ea720536a0e4e145b576230bee124de,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 81
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906078008625661926, guid: 5ea720536a0e4e145b576230bee124de,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 32
+      objectReference: {fileID: 0}
     - target: {fileID: 6906078008625661927, guid: 5ea720536a0e4e145b576230bee124de,
         type: 3}
       propertyPath: m_text
@@ -499,7 +514,21 @@ PrefabInstance:
 
         UI - plants (intro. and final screen):
         <a href=''https://br.freepik.com/vetores/fundo''>Fundo vetor criado por brgfx
-        - br.freepik.com</a>'
+        - br.freepik.com</a>
+
+        Jaguar and Toucan models and textures: Michael
+        - Creazilla (Open-Source License: https://creazilla.com/pt/media/3d-model/1763914/panthera-onca
+        and https://creazilla.com/media/3d-model/3450731/toco-toucan)'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906078008625661927, guid: 5ea720536a0e4e145b576230bee124de,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 9.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906078008625661927, guid: 5ea720536a0e4e145b576230bee124de,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 9.2
       objectReference: {fileID: 0}
     - target: {fileID: 6906078008709258156, guid: 5ea720536a0e4e145b576230bee124de,
         type: 3}
