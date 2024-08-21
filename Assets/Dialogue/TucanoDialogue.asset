@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   npcName: Toco Toucan
   dialogue:
-  - Hey! You came to save me!? Phew, I was tired of this cage. I thought being trapped
-    in this cage for longer!
+  - Hey! You came to save me!? Phew, I was tired of this cage. I thought I was going
+    to be trapped in this cage for longer!
   - I'm used to flying freely and the hunters made me think I could no longer fly
     through the forest.
   - "By the way, I am the Toco Toucan, also known as Tucanu\xE7u, the largest species

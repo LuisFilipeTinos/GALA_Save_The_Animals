@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9b898d642cabb2f4fa9772f50d5a95ba, type: 3}
   m_Name: CheckOncaDialogue
   m_EditorClassIdentifier: 
-  npcName: Arara-azul
+  npcName: Blue Macaw
   dialogue:
   - You are very smart, little adventurer! But look, there are hunters out front.
   - To get past them, you can't let them see you and, to do so, you must dodge them

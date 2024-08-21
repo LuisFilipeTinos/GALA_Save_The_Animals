@@ -130,6 +130,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7846099556075330081, guid: 3bef9aee7b9ead54eaf31904805d5c50,
         type: 3}
+      propertyPath: m_text
+      value: Press "F" or "Right Ctrl" to proceed
+      objectReference: {fileID: 0}
+    - target: {fileID: 7846099556075330081, guid: 3bef9aee7b9ead54eaf31904805d5c50,
+        type: 3}
       propertyPath: m_fontSize
       value: 22
       objectReference: {fileID: 0}
@@ -988,7 +993,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Muito obrigado por jogar!
+  m_text: Thank you for playing!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f7bfb4603a3c0f041b2a2fb31ab3ceb3, type: 2}
   m_sharedMaterial: {fileID: -7213092608105713828, guid: f7bfb4603a3c0f041b2a2fb31ab3ceb3,
@@ -1145,7 +1150,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sair do jogo
+  m_text: Quit
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4008a73fe3edbde40bc11ceae3e1f53d, type: 2}
   m_sharedMaterial: {fileID: -1675334191222443719, guid: 4008a73fe3edbde40bc11ceae3e1f53d,
@@ -1746,7 +1751,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Voltar ao menu
+  m_text: Back to menu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4008a73fe3edbde40bc11ceae3e1f53d, type: 2}
   m_sharedMaterial: {fileID: -1675334191222443719, guid: 4008a73fe3edbde40bc11ceae3e1f53d,
@@ -1985,7 +1990,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Uau! \nVoc\xEA \xE9 o melhor! Salvou todos os animais! "
+  m_text: You are the best! You've saved all the animals!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 05f94bc514bd711449150b0ecf8b46f1, type: 2}
   m_sharedMaterial: {fileID: 8420332369819067585, guid: 05f94bc514bd711449150b0ecf8b46f1,
